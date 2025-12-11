@@ -1,6 +1,6 @@
 [package]
 name = "replace-homedir"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Replace user home directory in a path with another string (Rust alternative to npm replace-homedir)"
 license = "MIT"
