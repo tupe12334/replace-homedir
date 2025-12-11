@@ -1,0 +1,12 @@
+[package]
+name = "replace-homedir"
+version = "0.1.0"
+edition = "2021"
+description = "Replace user home directory in a path with another string (Rust alternative to npm replace-homedir)"
+license = "MIT"
+repository = "https://github.com/tupe12334/replace-homedir"
+keywords = ["homedir", "path", "tilde", "home"]
+categories = ["filesystem"]
+
+[dependencies]
+dirs = "5"
